@@ -22,3 +22,14 @@ MaMaison is a home monitoring and automation application built using Flutter fra
 3. Run flutter pub get to install dependencies.
 4. Connect your device or start an emulator.
 5. Run flutter run to launch the application on your device or emulator.
+## Screenshots
+<div style="display: flex;">
+  <div style="flex: 50%; padding: 10px;">
+    <img src="mamaison/lib/screenshots/login.png" alt="login" width="400" style="margin-right: 10px">
+    <img src="mamaison/lib/screenshots/signUp.png" alt="signup" width="400" style="margin-left: 10px">
+  </div>
+  <div style="flex: 50%; padding: 10px;">
+    <img src="mamaison/lib/screenshots/dashboard.png" alt="Dashboard" width="400">
+    <img src="mamaison/lib/screenshots/liveStreaming.png" alt="Dashboard" width="400">
+  </div>
+</div>
